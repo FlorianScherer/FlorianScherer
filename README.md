@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FlorianScherer
+- 🏇 I’m interested in sports analytics 
+- 🤯 I’m currently learning data analytics and soon machine learning
+- 🙋 I’m looking to collaborate on any kind of sports analytics from teams perspective to betting
+- 📫 How to reach me florian-scherer@gmx.net
